@@ -1,0 +1,5 @@
+This is a C Program
+int a,b,c;
+printf("enter the values of a and b");
+c=a+b;
+printf("%d",c)
